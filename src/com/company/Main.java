@@ -5,6 +5,8 @@ public class Main {
     public static void main(String[] args) {
 	  System.out.println("Hello Vistula");
 
-      System.out.println("Vistula University");
+      System.out.println(" University");
+
+      System.out.println("123");
     }
 }
